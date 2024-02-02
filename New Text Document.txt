@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-dscsvdscdscdsds
-=======
-Helloworld
->>>>>>> a214111b3ae2bfb201afeceeaebc2fd13604faed
+aplle 
+ball
+cat
+
